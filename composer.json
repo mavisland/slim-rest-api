@@ -1,5 +1,15 @@
 {
+    "name": "mavisland/slim-rest-api",
+    "description": "Simple REST API with Slim Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tanju Yıldız",
+            "email": "ben@tanjuyildiz.com"
+        }
+    ],
     "require": {
-        "slim/slim": "4.*"
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.0"
     }
 }
